@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myra.API", "MyraAPI\Myra.API.csproj", "{92583249-D6C9-42E5-8CDE-833C89F5D20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myra.Application", "Myra.Application\Myra.Application.csproj", "{A5DF7E0E-7EAB-450B-9817-50526907618C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myra.Domain", "Myra.Domain\Myra.Domain.csproj", "{95FCD774-DB3C-40E8-B83C-A098A35E3BC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myra.Infra", "Myra.Infra\Myra.Infra.csproj", "{FBA7336F-57B7-4A58-971C-2C73565CC224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92583249-D6C9-42E5-8CDE-833C89F5D20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92583249-D6C9-42E5-8CDE-833C89F5D20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92583249-D6C9-42E5-8CDE-833C89F5D20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92583249-D6C9-42E5-8CDE-833C89F5D20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DF7E0E-7EAB-450B-9817-50526907618C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DF7E0E-7EAB-450B-9817-50526907618C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DF7E0E-7EAB-450B-9817-50526907618C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DF7E0E-7EAB-450B-9817-50526907618C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95FCD774-DB3C-40E8-B83C-A098A35E3BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FCD774-DB3C-40E8-B83C-A098A35E3BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FCD774-DB3C-40E8-B83C-A098A35E3BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FCD774-DB3C-40E8-B83C-A098A35E3BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA7336F-57B7-4A58-971C-2C73565CC224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA7336F-57B7-4A58-971C-2C73565CC224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA7336F-57B7-4A58-971C-2C73565CC224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA7336F-57B7-4A58-971C-2C73565CC224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F54A420B-5DCB-4685-A5F8-B082151FD070}
+	EndGlobalSection
+EndGlobal
